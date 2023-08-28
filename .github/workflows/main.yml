@@ -6,12 +6,10 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Java CI with Maven
+name: Azure Web app deployment
 
 on:
   push:
-    branches: [ "rishab" ]
-  pull_request:
     branches: [ "rishab" ]
 
 jobs:
